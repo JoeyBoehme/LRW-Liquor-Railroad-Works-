@@ -3,6 +3,8 @@ This is a list of all things equipment for Garry's Mod Train-build.
 
 From Locomotives to Rollingstock, both for show and FC&N OPS (Ops list in particular may change assuming the ops standards change)
 
+To plug these engines in do this: (x86)\Steam\steamapps\common\GarrysMod\garrysmod\data\advdupe2
+
 Here are the controls for the various locomotive types you'll find in these packs.
 Engine Startup for all will be a **Button** in the Cab
 **Headlights** Activate automatically on Engine Startup
