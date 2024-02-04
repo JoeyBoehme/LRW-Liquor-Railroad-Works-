@@ -48,3 +48,16 @@ RSC Standard
   **RIGHT_CLICK** to Quill the Whistle/Horn
   **T** for the Bell
   **O** for Cab Lighting
+
+GeoTrax Trains
+  **W** for Throttle Forward (The are to apply power so the engine will start to move)
+  **S** for Throttle Backward
+  **D** to move the Reverser Forwards (This is to chose the direction you move the engine)
+  **A** to move the Reverser Backwards
+  **Shift+W** to start engaging the Airbrakes (These need to be clicked a couple times, there's **air gauges** to determine how much power is going into the brakes)
+  **Shift+S** to disengage the Airbrakes
+  **Shift+D** to Engage the Handbrakes
+  **Shift+A** to Disengange the Handbrakes
+  **SPACE_BAR** to apply the EMERGENCY BRAKES (This uses the Airbrakes)
+  **I** to activate the FBD, do this when you've got a set of cars behind you.
+  
