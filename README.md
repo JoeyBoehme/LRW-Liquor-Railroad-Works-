@@ -15,9 +15,6 @@ Diesels/Electrics
 
 Steamers
   The button is where the **Firebox Door** is, press it to turn on the Steamer
-
-Coaches/Freight Cars
-  **O** for the Internal Lighting (This is all there is for now)
   
 OLC
   **W** for Forward
