@@ -34,7 +34,10 @@ RSC
   **Shift+D** to Engage the Handbrakes
   **Shift+A** to Disengange the Handbrakes
   **SPACE_BAR** to apply the EMERGENCY BRAKES (This uses the Airbrakes)
+  **Shift+SPACE_BAR** to release ALL the BRAKES (This uses the works for everybrake including emergency)
+  **.** the period key activates and deactivates the sanding gear in my lastest engines (courtesy of Nebula)
   FBD instant activates upon startup of the Engine
+  Cab Signals come standard on latest releases instant activates upon startup of the Engine
 
 RSC OPS
   **R** for Whistle/Horn
